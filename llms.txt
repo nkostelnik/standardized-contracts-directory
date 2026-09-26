@@ -1,0 +1,12 @@
+# Standardized Contracts Directory
+
+> A searchable, filterable register of widely-used standardized contracts: jointly-drafted, market-wide forms like Bonterms, Common Paper, oneNDA, EU SCCs, ISDA, FIDIC, and AIA, tagged by jurisdiction and category.
+
+Single-page directory, no build step, no backend. Runs entirely client-side.
+
+## Contents
+- A tagged list of standardized/market-standard contract forms used across industries: NDAs, cloud/SaaS terms, financial derivatives master agreements, construction contracts, data transfer agreements, and more.
+- Each entry is tagged by jurisdiction and category and links to the official source for that form.
+
+## Primary page
+- [Standardized Contracts Directory](https://nkostelnik.github.io/standardized-contracts-directory/): the full directory.
