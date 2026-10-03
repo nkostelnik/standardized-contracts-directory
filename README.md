@@ -8,14 +8,36 @@ Also includes a small easter egg: pick your favorite NHL team from the "Change t
 
 ## Running locally
 
-This is a single static HTML file with no build step and no dependencies.
+This is a static page (`index.html`) that loads its data from `contracts.json`, with no build step and no dependencies. Because the page fetches that file, serve the folder over HTTP rather than opening `index.html` directly:
 
 ```bash
 # any static file server works, e.g.:
 npx serve .
+# or
+python3 -m http.server
 ```
 
-Or just open `index.html` directly in a browser.
+## Data
+
+Every standard is one entry in [`contracts.json`](contracts.json), checked against [`contracts.schema.json`](contracts.schema.json) (JSON Schema 2020-12). To add a standard, append an object with these fields:
+
+| Field | Type | Notes |
+| --- | --- | --- |
+| `name` | string | Display name |
+| `publisher` | string | Who publishes or maintains it |
+| `category` | string[] | First entry is the primary category used for grouping |
+| `jurisdiction` | string[] | Any of `US`, `UK`, `EU`, `Global` |
+| `year` | integer | First published or last revised |
+| `access` | string | `free`, `membership`, or `paid` |
+| `license` | string | Short label shown on the card |
+| `blurb` | string | One or two sentences |
+| `url` | string | Official source link |
+
+To validate your changes:
+
+```bash
+npx ajv-cli validate --spec=draft2020 -s contracts.schema.json -d contracts.json
+```
 
 ## Deploying
 
