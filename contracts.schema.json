@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nkostelnik.github.io/standardized-contracts-directory/contracts.schema.json",
+  "title": "Standardized Contracts Directory",
+  "description": "The register of standardized contracts shown on the directory page. Each entry is one standard.",
+  "type": "array",
+  "minItems": 1,
+  "items": { "$ref": "#/$defs/contract" },
+  "$defs": {
+    "contract": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "publisher", "category", "jurisdiction", "year", "access", "license", "blurb", "url"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Display name of the standard."
+        },
+        "publisher": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Organization that publishes or maintains it."
+        },
+        "category": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 },
+          "description": "One or more categories. The first is the primary category used for grouping."
+        },
+        "jurisdiction": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "enum": ["US", "UK", "EU", "Global"] },
+          "description": "Where the standard is mainly used. Must match the JURISDICTIONS list in index.html."
+        },
+        "year": {
+          "type": "integer",
+          "minimum": 1900,
+          "maximum": 2100,
+          "description": "Year first published or most recently revised."
+        },
+        "access": {
+          "enum": ["free", "membership", "paid"],
+          "description": "How readers can obtain the document."
+        },
+        "license": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Short license or terms label shown on the card."
+        },
+        "blurb": {
+          "type": "string",
+          "minLength": 1,
+          "description": "One- or two-sentence description."
+        },
+        "url": {
+          "type": "string",
+          "pattern": "^https?://",
+          "description": "Link to the official source."
+        }
+      }
+    }
+  }
+}

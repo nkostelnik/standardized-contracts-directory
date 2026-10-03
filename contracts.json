@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Bonterms Cloud Terms",
+    "publisher": "Bonterms",
+    "category": [
+      "SaaS & Commercial"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2022,
+    "access": "free",
+    "license": "Free (CC BY 4.0)",
+    "blurb": "Balanced, plain-English cloud/SaaS terms that ship as a fixed document; the two sides negotiate only a short cover page instead of redlining the terms themselves.",
+    "url": "https://bonterms.com/forms/bonterms-cloud-terms-v1"
+  },
+  {
+    "name": "Bonterms Professional Services Agreement",
+    "publisher": "Bonterms",
+    "category": [
+      "SaaS & Commercial"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2023,
+    "access": "free",
+    "license": "Free (CC BY 4.0)",
+    "blurb": "A standardized services agreement for implementation, consulting, and integration work, built on the same cover-page model as the rest of the Bonterms suite.",
+    "url": "https://bonterms.com/download-center/"
+  },
+  {
+    "name": "Common Paper Cloud Service Agreement",
+    "publisher": "Common Paper",
+    "category": [
+      "SaaS & Commercial"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2022,
+    "access": "free",
+    "license": "Free (CC BY 4.0)",
+    "blurb": "A structured B2B SaaS agreement with variables on a cover page and standing terms maintained by a committee of practicing attorneys, aimed at same-day signature.",
+    "url": "https://commonpaper.com/standards/cloud-service-agreement/"
+  },
+  {
+    "name": "Bonterms Mutual NDA",
+    "publisher": "Bonterms",
+    "category": [
+      "NDA & Confidentiality"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2021,
+    "access": "free",
+    "license": "Free (CC BY 4.0)",
+    "blurb": "No-redline mutual confidentiality agreement: fill in the cover page (parties, term, exceptions) and leave the underlying obligations untouched.",
+    "url": "https://bonterms.com/forms/bonterms-mutual-nda-v1"
+  },
+  {
+    "name": "Common Paper Mutual NDA",
+    "publisher": "Common Paper",
+    "category": [
+      "NDA & Confidentiality"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2021,
+    "access": "free",
+    "license": "Free (CC BY 4.0)",
+    "blurb": "The template that launched Common Paper's library and remains its most widely adopted: a mutual NDA reported to have been downloaded tens of thousands of times by companies of all sizes.",
+    "url": "https://commonpaper.com/standards/mutual-nda/"
+  },
+  {
+    "name": "oneNDA",
+    "publisher": "oneNDA",
+    "category": [
+      "NDA & Confidentiality"
+    ],
+    "jurisdiction": [
+      "UK",
+      "Global"
+    ],
+    "year": 2021,
+    "access": "free",
+    "license": "Free to use",
+    "blurb": "A single, deliberately non-negotiable mutual NDA crowdsourced from clauses contributed by dozens of law firms and in-house teams; thousands of organizations now start (and stop) here.",
+    "url": "https://www.onenda.org/"
+  },
+  {
+    "name": "Universal NDA (uNDA)",
+    "publisher": "Bitmovin & UC Hastings Startup Legal Garage",
+    "category": [
+      "NDA & Confidentiality"
+    ],
+    "jurisdiction": [
+      "US"
+    ],
+    "year": 2015,
+    "access": "free",
+    "license": "Open (permissive license)",
+    "blurb": "Distilled from hundreds of real NDAs and interviews with Bay Area general counsel down to 13 clauses, then open-sourced on GitHub for anyone to fork.",
+    "url": "https://github.com/bitmovin/unda"
+  },
+  {
+    "name": "ILPA Model Non-Disclosure Agreement",
+    "publisher": "Institutional Limited Partners Association",
+    "category": [
+      "NDA & Confidentiality"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2021,
+    "access": "free",
+    "license": "Free",
+    "blurb": "A model NDA for private-fund diligence, built so limited partners and general partners stop re-negotiating confidentiality terms before every secondary sale or diligence exercise.",
+    "url": "https://ilpa.org/industry-guidance/templates-standards-model-documents/model-non-disclosure-agreement/"
+  },
+  {
+    "name": "Bonterms Data Protection Addendum",
+    "publisher": "Bonterms",
+    "category": [
+      "Privacy & Data Transfer"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2023,
+    "access": "free",
+    "license": "Free (CC BY 4.0)",
+    "blurb": "A standardized data protection addendum meant to bolt onto the Bonterms Cloud Terms or any other commercial agreement, covering processor obligations under GDPR- and CCPA-style regimes.",
+    "url": "https://bonterms.com/download-center/"
+  },
+  {
+    "name": "Common Paper CSA Data Addendum",
+    "publisher": "Common Paper",
+    "category": [
+      "Privacy & Data Transfer"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2023,
+    "access": "free",
+    "license": "Free (CC BY 4.0)",
+    "blurb": "Companion data-processing addendum for the Common Paper Cloud Service Agreement, drafted to slot in without reopening the commercial terms.",
+    "url": "https://commonpaper.com/standards/"
+  },
+  {
+    "name": "EU Standard Contractual Clauses",
+    "publisher": "European Commission",
+    "category": [
+      "Privacy & Data Transfer"
+    ],
+    "jurisdiction": [
+      "EU"
+    ],
+    "year": 2021,
+    "access": "free",
+    "license": "Free (regulatory text)",
+    "blurb": "The European Commission's modular clauses for lawfully exporting personal data outside the EU/EEA; modernized in 2021 to cover controller-to-processor and processor-to-processor transfers.",
+    "url": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en"
+  },
+  {
+    "name": "UK International Data Transfer Agreement",
+    "publisher": "UK Information Commissioner's Office",
+    "category": [
+      "Privacy & Data Transfer"
+    ],
+    "jurisdiction": [
+      "UK"
+    ],
+    "year": 2022,
+    "access": "free",
+    "license": "Free (regulatory text)",
+    "blurb": "The UK's own successor to the EU SCCs for transfers out of the UK, alongside a shorter Addendum that bolts UK terms onto an existing EU SCC agreement.",
+    "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/appropriate-safeguards/what-are-standard-data-protection-clauses-the-uk-idta-and-the-addendum/"
+  },
+  {
+    "name": "IAB Multi-State Privacy Agreement (MSPA)",
+    "publisher": "IAB Privacy / IAB Tech Lab",
+    "category": [
+      "Privacy & Data Transfer",
+      "Advertising & AdTech"
+    ],
+    "jurisdiction": [
+      "US"
+    ],
+    "year": 2023,
+    "access": "membership",
+    "license": "Membership framework",
+    "blurb": "Contractual framework binding publishers, advertisers, and ad-tech vendors to shared privacy terms across the growing patchwork of US state privacy laws; successor to the 2020 CCPA-era LSPA.",
+    "url": "https://www.iab.com/news/multi-state-privacy-agreement-mspa/"
+  },
+  {
+    "name": "IAB Europe TCF Policies",
+    "publisher": "IAB Europe / IAB Tech Lab",
+    "category": [
+      "Privacy & Data Transfer",
+      "Advertising & AdTech"
+    ],
+    "jurisdiction": [
+      "EU",
+      "Global"
+    ],
+    "year": 2018,
+    "access": "free",
+    "license": "Free (published policy)",
+    "blurb": "The Transparency & Consent Framework's binding policies for consent-management platforms and ad-tech vendors handling GDPR consent signals across the industry.",
+    "url": "https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/"
+  },
+  {
+    "name": "IAB / 4A's Standard Terms & Conditions for Media Buys (One Year or Less)",
+    "publisher": "IAB & American Association of Advertising Agencies",
+    "category": [
+      "Advertising & AdTech"
+    ],
+    "jurisdiction": [
+      "US"
+    ],
+    "year": 2010,
+    "access": "free",
+    "license": "Free",
+    "blurb": "The default insertion-order terms for US digital media buys under a year, jointly issued so agencies and publishers stop rewriting boilerplate for every campaign.",
+    "url": "https://www.iab.com/wp-content/uploads/2015/06/IAB_4As-tsandcs-FINAL.pdf"
+  },
+  {
+    "name": "Y Combinator SAFE",
+    "publisher": "Y Combinator",
+    "category": [
+      "Venture & Startup Financing"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 2013,
+    "access": "free",
+    "license": "Free / open",
+    "blurb": "The Simple Agreement for Future Equity: no interest, no maturity date, equity converts at the next priced round. Now the dominant pre-seed instrument well beyond YC's own portfolio.",
+    "url": "https://www.ycombinator.com/documents"
+  },
+  {
+    "name": "NVCA Model Legal Documents",
+    "publisher": "National Venture Capital Association",
+    "category": [
+      "Venture & Startup Financing"
+    ],
+    "jurisdiction": [
+      "US"
+    ],
+    "year": 2024,
+    "access": "free",
+    "license": "Free",
+    "blurb": "The charter, stock purchase agreement, investors' rights agreement, and related forms used as the starting point in the large majority of US priced venture rounds.",
+    "url": "https://nvca.org/model-legal-documents/"
+  },
+  {
+    "name": "Series Seed Documents",
+    "publisher": "Series Seed (orig. Ted Wang / Fenwick)",
+    "category": [
+      "Venture & Startup Financing"
+    ],
+    "jurisdiction": [
+      "US"
+    ],
+    "year": 2010,
+    "access": "free",
+    "license": "Free (CC0)",
+    "blurb": "An earlier open-source seed-financing document set, released to the public domain and now maintained collaboratively on GitHub as a lighter-weight alternative to a full priced round.",
+    "url": "https://www.seriesseed.com/"
+  },
+  {
+    "name": "ISDA Master Agreement",
+    "publisher": "International Swaps and Derivatives Association",
+    "category": [
+      "Derivatives & Lending"
+    ],
+    "jurisdiction": [
+      "Global"
+    ],
+    "year": 2002,
+    "access": "paid",
+    "license": "Licensed / paid",
+    "blurb": "The umbrella agreement underlying most over-the-counter derivatives trades worldwide: one negotiated schedule governs every confirmation signed afterward.",
+    "url": "https://www.isda.org/"
+  },
+  {
+    "name": "LSTA Model Credit Agreement Provisions",
+    "publisher": "Loan Syndications and Trading Association",
+    "category": [
+      "Derivatives & Lending"
+    ],
+    "jurisdiction": [
+      "US"
+    ],
+    "year": 2020,
+    "access": "membership",
+    "license": "Membership",
+    "blurb": "Standardized clauses for the US syndicated loan market, used so lead arrangers and borrowers aren't relitigating the same boilerplate on every leveraged loan.",
+    "url": "https://www.lsta.org/"
+  },
+  {
+    "name": "LMA Facility Agreement Documentation",
+    "publisher": "Loan Market Association",
+    "category": [
+      "Derivatives & Lending"
+    ],
+    "jurisdiction": [
+      "UK",
+      "EU"
+    ],
+    "year": 2020,
+    "access": "membership",
+    "license": "Membership",
+    "blurb": "The London-based counterpart to the LSTA forms, setting the standardized facility agreements used as the default across European syndicated and leveraged lending.",
+    "url": "https://www.lma.eu.com/"
+  },
+  {
+    "name": "AIA Contract Documents (A201 family)",
+    "publisher": "American Institute of Architects",
+    "category": [
+      "Construction & Engineering"
+    ],
+    "jurisdiction": [
+      "US"
+    ],
+    "year": 2017,
+    "access": "paid",
+    "license": "Paid",
+    "blurb": "The best-known US construction contract family (owner, architect, and contractor agreements built around the A201 General Conditions), revised on a roughly ten-year cycle.",
+    "url": "https://www.aiacontracts.org/"
+  },
+  {
+    "name": "ConsensusDocs",
+    "publisher": "ConsensusDocs Coalition",
+    "category": [
+      "Construction & Engineering"
+    ],
+    "jurisdiction": [
+      "US"
+    ],
+    "year": 2007,
+    "access": "paid",
+    "license": "Paid",
+    "blurb": "A rival US construction contract catalog drafted jointly by owner, contractor, and design coalitions rather than by architects alone, pitched as more balanced across parties.",
+    "url": "https://www.consensusdocs.org/"
+  },
+  {
+    "name": "FIDIC Suite of Contracts (the “Rainbow Suite”)",
+    "publisher": "International Federation of Consulting Engineers",
+    "category": [
+      "Construction & Engineering"
+    ],
+    "jurisdiction": [
+      "Global"
+    ],
+    "year": 2017,
+    "access": "paid",
+    "license": "Paid",
+    "blurb": "The standardized reference for cross-border infrastructure and engineering projects, color-coded by risk allocation: Red Book, Yellow Book, Silver Book, and more.",
+    "url": "https://fidic.org/"
+  },
+  {
+    "name": "JCT Contracts",
+    "publisher": "Joint Contracts Tribunal",
+    "category": [
+      "Construction & Engineering"
+    ],
+    "jurisdiction": [
+      "UK"
+    ],
+    "year": 2016,
+    "access": "paid",
+    "license": "Paid",
+    "blurb": "The default UK building contract suite, produced by a tribunal representing contractors, employers, and consultants across the construction industry.",
+    "url": "https://www.jctltd.co.uk/"
+  },
+  {
+    "name": "NEC4 Engineering & Construction Contract",
+    "publisher": "NEC (Institution of Civil Engineers)",
+    "category": [
+      "Construction & Engineering"
+    ],
+    "jurisdiction": [
+      "UK",
+      "Global"
+    ],
+    "year": 2017,
+    "access": "paid",
+    "license": "Paid",
+    "blurb": "A collaboratively-drafted alternative to JCT and FIDIC built around active project management rather than after-the-fact dispute clauses; widely mandated on UK public infrastructure.",
+    "url": "https://www.neccontract.com/"
+  },
+  {
+    "name": "Creative Commons Licenses",
+    "publisher": "Creative Commons",
+    "category": [
+      "Open-Source & IP Licensing"
+    ],
+    "jurisdiction": [
+      "Global"
+    ],
+    "year": 2002,
+    "access": "free",
+    "license": "Free",
+    "blurb": "The standardized public licenses for creative and published work, from CC0's full dedication to the public domain up to the most restrictive CC BY-NC-ND, now on their fourth major revision.",
+    "url": "https://creativecommons.org/licenses/"
+  },
+  {
+    "name": "OSI-Approved Open Source Licenses (MIT / Apache 2.0 / GPL)",
+    "publisher": "Open Source Initiative",
+    "category": [
+      "Open-Source & IP Licensing"
+    ],
+    "jurisdiction": [
+      "Global"
+    ],
+    "year": 1998,
+    "access": "free",
+    "license": "Free",
+    "blurb": "The reference texts for the license grants that govern nearly all public software: permissive (MIT, Apache 2.0) and copyleft (GPL) forms maintained under one approval process.",
+    "url": "https://opensource.org/licenses"
+  },
+  {
+    "name": "ACORD Forms",
+    "publisher": "ACORD",
+    "category": [
+      "Insurance"
+    ],
+    "jurisdiction": [
+      "US",
+      "Global"
+    ],
+    "year": 1971,
+    "access": "membership",
+    "license": "Licensed",
+    "blurb": "The insurance industry's standardized certificate-of-insurance and application forms, in use since 1971 and now the common data format most agency systems build around.",
+    "url": "https://www.acord.org/forms-pages/acord-forms"
+  },
+  {
+    "name": "ICC Model International Sale Contract",
+    "publisher": "International Chamber of Commerce",
+    "category": [
+      "International Trade"
+    ],
+    "jurisdiction": [
+      "Global"
+    ],
+    "year": 1997,
+    "access": "paid",
+    "license": "Paid",
+    "blurb": "A model form for cross-border sale of goods designed to sit alongside ICC Incoterms, giving exporters and importers a starting point instead of drafting a bespoke international contract each time.",
+    "url": "https://iccwbo.org/"
+  }
+]
